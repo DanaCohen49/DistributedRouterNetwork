@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c102af1-4f75-4b02-8736-1c7c6e6ce532" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="238" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2JGtOTcEv0HUqnANMDrJxss58OJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="DistDataSys" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c102af1-4f75-4b02-8736-1c7c6e6ce532" name="Default Changelist" comment="" />
+      <created>1671716216000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671716216000</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="297" key="GridCell.Tab.0.bottom" timestamp="1743364875433">
+      <screen x="-1920" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.0.bottom/0.0.1280.672/-1920.0.1536.816@-1920.0.1536.816" timestamp="1743364875433" />
+    <state width="1493" height="297" key="GridCell.Tab.0.center" timestamp="1743364875433">
+      <screen x="-1920" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.0.center/0.0.1280.672/-1920.0.1536.816@-1920.0.1536.816" timestamp="1743364875433" />
+    <state width="1493" height="297" key="GridCell.Tab.0.left" timestamp="1743364875433">
+      <screen x="-1920" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.0.left/0.0.1280.672/-1920.0.1536.816@-1920.0.1536.816" timestamp="1743364875433" />
+    <state width="1493" height="297" key="GridCell.Tab.0.right" timestamp="1743364875433">
+      <screen x="-1920" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.0.right/0.0.1280.672/-1920.0.1536.816@-1920.0.1536.816" timestamp="1743364875433" />
+    <state width="1493" height="159" key="GridCell.Tab.1.bottom" timestamp="1743364834357">
+      <screen x="-1920" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="159" key="GridCell.Tab.1.bottom/0.0.1280.672/-1920.0.1536.816@-1920.0.1536.816" timestamp="1743364834357" />
+    <state width="1493" height="159" key="GridCell.Tab.1.center" timestamp="1743364834357">
+      <screen x="-1920" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="159" key="GridCell.Tab.1.center/0.0.1280.672/-1920.0.1536.816@-1920.0.1536.816" timestamp="1743364834357" />
+    <state width="1493" height="159" key="GridCell.Tab.1.left" timestamp="1743364834357">
+      <screen x="-1920" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="159" key="GridCell.Tab.1.left/0.0.1280.672/-1920.0.1536.816@-1920.0.1536.816" timestamp="1743364834357" />
+    <state width="1493" height="159" key="GridCell.Tab.1.right" timestamp="1743364834357">
+      <screen x="-1920" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="159" key="GridCell.Tab.1.right/0.0.1280.672/-1920.0.1536.816@-1920.0.1536.816" timestamp="1743364834357" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Server.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="918" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExManager.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="938" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClientsHandler.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="1025" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClientsHandler.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="1026" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClientsHandler.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="1029" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Server.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="1061" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Client.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="1065" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClientsHandler.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="1067" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Server.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="1075" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Server.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="1078" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Server.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="1079" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Client.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="1086" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Client.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="1087" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Server.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="1095" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Server.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="1098" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Server.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="1099" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Server.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="1100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Client.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="1104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Client.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="1105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClientsHandler.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="1107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExManager.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="1111" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="(Integer[])in.readObject()" language="JAVA" />
+        <watch expression="a[0]" language="JAVA" />
+        <watch expression="in.readObject()" language="JAVA" />
+        <watch expression="in.readObject()" language="JAVA" />
+        <watch expression="in.readObject()" language="JAVA" />
+        <watch expression="acceptedPairs" language="JAVA" />
+        <watch expression="client.getInputStream()" language="JAVA" />
+        <watch expression="client.getInputStream()" language="JAVA" />
+        <watch expression="dataInputStream.available()" language="JAVA" />
+        <watch expression="in.available()" language="JAVA" />
+        <watch expression="count&gt;300" language="JAVA" />
+        <watch expression="socket.isConnected()" language="JAVA" />
+        <watch expression="socket.created" language="JAVA" />
+        <watch expression="socket.isClosed()" language="JAVA" />
+        <watch expression="server.close()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DistDataSys$main.ic" NAME="main Coverage Results" MODIFIED="1672499423122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
